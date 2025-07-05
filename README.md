@@ -5,7 +5,7 @@ habit-tracker/
   - week-02.md
   - ...
 summary.md
-# Week 1: Healthy Habits Log
+# Week 1: Healthy Habits
 
 | Date       | Drink Water | Workout | Reading | Meditation | Sleep (>=7h) |
 |------------|-------------|---------|---------|------------|--------------|
